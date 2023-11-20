@@ -6,7 +6,6 @@
 A face detection project using OpenCV often starts by accessing frames from a video source, like a webcam or a video file. Once a face is detected, a common practice is to draw a green rectangle around the detected face region to visually highlight it.
 ## Team members
 1. [Arathi Krishna A M](https://github.com/arathikrishnaam/arathikrishnaam)
-2. [Shahana K V](https://github.com/shahanakv)
 ## Link to product walkthrough
 [link to video]([Link Here](https://drive.google.com/drive/folders/1UpM5eiwZMuaTgtIPczse3h9jQwFiEIUp?usp=drive_link))
 ## How it Works ?
